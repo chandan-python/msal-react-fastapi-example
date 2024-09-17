@@ -1,0 +1,3 @@
+REACT_APP_clientId
+REACT_APP_authority=https://login.microsoftonline.com/{tenant sub domain}
+REACT_APP_redirect_url
